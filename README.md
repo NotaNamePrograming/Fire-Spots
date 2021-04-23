@@ -11,3 +11,8 @@ Este software, consiste em um aplicativo sem fins monetários para avisos de inc
 
 ## Indice/Sumário
 
+
+* Titulo.
+* Resumo.
+* Status do projeto.
+* Indice/Sumario.
