@@ -39,6 +39,6 @@ Este software, consiste em um aplicativo sem fins monetários para avisos de inc
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE) para mais detalhes.
 
 ## Agradecimentos
