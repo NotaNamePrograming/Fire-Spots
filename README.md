@@ -1,6 +1,7 @@
 # Fire-Spots
 
-![Capa do Projeto](https://imgur.com/a/z9qHLBw)
+<p align="center">
+  <img width="400" height="400" src="
 
 ## Resumo
 
