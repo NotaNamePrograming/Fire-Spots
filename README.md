@@ -32,6 +32,7 @@ Este software, consiste em um aplicativo sem fins monetários para avisos de inc
 
 ## Tecnologias usadas
 
+- [Flutter](https://flutter.dev/)
 
 ## Contribuíções
 
