@@ -35,9 +35,11 @@ Este software, consiste em um aplicativo sem fins monetários para avisos de inc
 ## Tecnologias usadas
 
 - [Flutter](https://flutter.dev/)
+- [Node.js](https://nodejs.org/en/)
 
 ## Contribuíções
 
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 ## Autores
 
